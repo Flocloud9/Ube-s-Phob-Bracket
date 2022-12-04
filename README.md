@@ -1,5 +1,6 @@
-# Ube-s-Phob-Bracket
-An open source Bracket for the Phob GCC
+## Ube-s-Phob-Bracket
+
+# An open source Bracket for the Phob GCC with...
  - Mouse click L/R compatibility 
  - L-cut hole for phob 1.2X teensy pins
  - Cell rumble mount with Lid
@@ -9,7 +10,7 @@ An open source Bracket for the Phob GCC
 # required parts
  - M1.6 Heat inserts
      - https://www.mcmaster.com/92120A150/
-         - heat inserted with soldering gun on low to the 3 holes on the rumble bracket
+     - heat inserted with soldering gun on low to the 3 holes on the rumble bracket
 
  - M1.6 Screw 
      - https://www.mcmaster.com/90910A901/
@@ -19,6 +20,7 @@ An open source Bracket for the Phob GCC
  - guide by fires on his bracket, mines is pretty much the same so credit to fires 
     - https://firescc.com/mod-guides#/rumble-bracket
 
+# Images
 ![Alt text](./images/UR-GCC-2.png)
 
 ![Alt text](./images/UR-GCC-3.png)
