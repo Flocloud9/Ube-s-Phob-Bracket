@@ -9,11 +9,11 @@ An open source Bracket for the Phob GCC
 # required parts
  - M1.6 Heat inserts
      - https://www.mcmaster.com/92120A150/
- - heat inserted with soldering gun on low to the 3 holes on the rumble bracket
+         - heat inserted with soldering gun on low to the 3 holes on the rumble bracket
 
  - M1.6 Screw 
      - https://www.mcmaster.com/90910A901/
- - screws into the inserts for the rumble cap and to secure the MB
+     - screws into the inserts for the rumble cap and to secure the MB
 
 # similar guide
  - guide by fires on his bracket, mines is pretty much the same so credit to fires 
