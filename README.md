@@ -1,6 +1,6 @@
 ## Ube-s-Phob-Bracket
 
-######NO LONGER SUPPORTED GOTO: https://github.com/Flocloud9/GCC-3v-Cellphone-Rumble
+###### NO LONGER SUPPORTED GOTO: https://github.com/Flocloud9/GCC-3v-Cellphone-Rumble
 
 # An open source Bracket for the Phob GCC with...
  - Mouse click L/R compatibility 
